@@ -1,6 +1,6 @@
 # list-of-public-multi-modal-datasets
-| Order | Paper | Animals |munber| modalities |object measurement | Links |
-|-------|-------|:-------:|---------|-------|-------|-------|
+| Order | Paper | Animals |Number| Modalities |Object Measurement | Links |
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 |D01|[Ruchay et al. 2020]( https://doi.org/10.1016/j.compag.2020.105821)|Cattle|154|RGB-D|Body size measurement|https://github.com/ruchaya/CowDB|
 |D02|[Ruchay et al. 2020]( https://doi.org/10.1016/j.compag.2020.105821)|Cattle|103|RGB-D|Body size measurement|https://github.com/ruchaya/CowDatabase|
 |D03|[Ma et al. 2021](https://ieeexplore.ieee.org/abstract/document/10869553)|Cattle|15|RGB-D|Individual detection|https://github.com/Jiahao-Ma/MultiviewC|
